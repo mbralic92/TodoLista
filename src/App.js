@@ -4,6 +4,7 @@ import AddTask from "./Components/addTask";
 function App() {
   return (
     <div className="App">
+      <h1>My tasks</h1>
       <AddTask />
     </div>
   );
